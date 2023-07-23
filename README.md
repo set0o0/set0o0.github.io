@@ -10,7 +10,7 @@
         
         <h3> What you will get to see</h3>
         
-        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-in-hawaii.png"width="350">
+        <img src="https://en.wikipedia.org/wiki/File:Punaluu_Beach_Park,_Big_Island,_Hawaii.jpg"width="350">
         
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Na_Pali_Coast%2C_Kauai%2C_Hawaii.jpg/220px-Na_Pali_Coast%2C_Kauai%2C_Hawaii.jpg" width="350">
         <h3>What you can do</h3>
